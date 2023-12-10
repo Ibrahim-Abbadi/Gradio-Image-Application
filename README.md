@@ -1,1 +1,2 @@
 # Gradio-Image-Application
+Gradio simplifies the process of developing machine learning applications by providing an easy-to-use interface creation toolkit. This project showcases how to implement a digit recognition application using Gradio, allowing users to interactively input handwritten digits and get real-time predictions using a trained ML model.
